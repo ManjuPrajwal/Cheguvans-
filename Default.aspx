@@ -7,7 +7,7 @@
 <head>
    
     
-    <title>Cheguvans Solution | Place Deals Website</title>
+    <title>Cheguvans Solution | Place Deals Website - Chennai </title>
 	<!-- core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet"/>
     <link href="css/font-awesome.min.css" rel="stylesheet"/>
